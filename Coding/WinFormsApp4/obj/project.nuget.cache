@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "h4dXwnQzkiqJjEPjrvXu6mV+Gh/cZeV7IIRCyvai5/lmh3PS6aBzTisJdmms1A0HWfib0YtL2ZhPRd1RKM2nmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\panka\\Downloads\\123\\billing software\\WinFormsApp4\\WinFormsApp4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\panka\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\panka\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
